@@ -1,0 +1,31 @@
+[
+
+{
+
+
+   "fName"     : "mohamed" ,
+   "lName"     : "Ahmed"   ,
+   "Email"     : "m1@gmail.com" ,
+   "company"   : " com" ,
+   "password"  : "12345678" ,
+   
+   "new_password" : "10203040" ,
+   
+   "product_name1" : "Apple mac " ,
+   "product_name2" : "Asus" ,
+   "Review" : "good" ,
+   "comment" : "i love this product " ,
+   
+   "city" : "cairo" ,
+   "address" : "El Qanatir" ,
+   "code_phone" : "02" ,
+   "phone" : "01150439940" ,
+   
+   "Email2"    : "a.2@gmail.com"  ,
+   "massage"    : "i love you mooooooo" 
+   
+}
+
+
+
+]
